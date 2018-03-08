@@ -5,7 +5,7 @@ JAVA + SWING
 
 
 
-------------------- ZASADY GRY ------------------------
+----------------------- ZASADY GRY ---------------------------
 
     Należy wypenić puste pola diagramu
     cyframi od 1 do 9, tak aby:

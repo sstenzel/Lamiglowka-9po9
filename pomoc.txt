@@ -1,0 +1,51 @@
+
+
+              ***  DZIEWIĘĆ PO DZIEWIĘĆ  ***
+
+----------------------------- ZASADY GRY -------------------------------
+
+    Należy wypenić puste pola diagramu
+    cyframi od 1 do 9, tak aby:
+    - w każdym rzędzie, kolumnie oraz sektorze
+      występowało dziewięć różnych cyfr
+    
+    
+-------------------- DODATKOWE INFORMACJE -----------------------
+
+    SEKTORY
+        - obszary oznaczone roznymi kolorami,
+          kazdy obejmuje 9 pól
+    
+    WARIANT PLANSZY
+        - ułożenie pól dziewięciu sektorów
+
+    POZIOM GRY
+        - łatwy: losowanych jest 30 liczb początkowych
+        - średni: 25 liczb 
+        - trudny: 20 liczb
+        
+        
+---------------------- SKRÓTY KLAWISZOWE ------------------------
+
+    STRZALKI    - poruszanie się po planszy
+
+    ALT + q     - cofnij ruch
+    ALT + w     - powtórz ruch
+    ALT + s     - sprawdź poprawność 
+                      dotychczasowych odpowiedzi
+
+    CTRL + m    - (menu) rozwiń menu
+    CTRL + s    - (save) zapisz grę
+    CTRL + r    - (read) wczytaj grę
+    CTRL + p    - okienko pomocy
+
+    ALT + 1     - nowa gra na poziomie łatwym
+    ALT + 2     - nowa gra na poziomie średnim
+    ALT + 3     - nowa gra na poziomie trudnym
+
+
+---------------------------------------------------------------------------------
+
+                  ***  POWODZENIA!  ***
+
+---------------------------------------------------------------------------------

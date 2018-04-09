@@ -3,7 +3,7 @@
 
 JAVA + SWING
 
-[ Projekt na zajecia ]
+[ Projekt na zajecia, 01/2018 ]
 
 ----------------------- ZASADY GRY ---------------------------
 

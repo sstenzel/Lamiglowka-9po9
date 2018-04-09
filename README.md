@@ -1,9 +1,9 @@
 
-# Łamigłówka Dziewięć po dziewięć
+# SUDOKU NIEREGULARNE
 
 JAVA + SWING
 
-
+[ Projekt na zajecia ]
 
 ----------------------- ZASADY GRY ---------------------------
 
